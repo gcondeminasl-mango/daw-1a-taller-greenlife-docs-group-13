@@ -12,4 +12,4 @@
 2. Instal·lar dependències
 3. Configurar variables d'entorn
 4. Inicialitzar la base de dades
-5. Executar l'aplicació
+5. Executar l'aplicac vn mbh cbió
